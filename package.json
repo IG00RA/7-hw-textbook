@@ -1,8 +1,8 @@
 {
-  "name": "hw-7-textbook",
+  "name": "7-hw-textbook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://IG00RA.github.io/hw-7-textbook/",
+  "homepage": "https://IG00RA.github.io/7-hw-textbook/",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.5",
     "@reduxjs/toolkit": "^1.9.5",
